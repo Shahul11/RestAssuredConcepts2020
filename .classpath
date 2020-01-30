@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/rest-assured-4.1.2-dist/rest-assured-4.1.2-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jar_files/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jar_files/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jar_files/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jar_files/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jar_files/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jar_files/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jar_files/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jar_files/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1.jar" sourcepath="C:/Users/shahul.hameed/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.1/jackson-annotations-2.10.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+			<attribute name="maven.artifactId" value="jackson-annotations"/>
+			<attribute name="maven.version" value="2.10.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shahul.hameed/Downloads/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
